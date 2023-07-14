@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="settings_title">Game Space</string>
+    <string name="settings_title">Không gian trò chơi</string>
     <string name="settings_summary">Quản lý thiết lập trò chơi của bạn</string>
     <!-- Game options -->
     <string name="in_game_preferences_title">Tùy chọn trong trò chơi</string>
@@ -32,8 +32,8 @@
     <string name="notification_mode_title">Chế độ thông báo</string>
     <string name="notification_mode_hide">Không hiển thị</string>
     <string name="notification_mode_headsup">Hiện bằng Thông báo nổi</string>
-    <string name="notification_mode_reticker">Hiện bằng reTicker</string>
-    <string name="notification_mode_danmaku">Hiện bằng Danmaku</string>
+    <string name="notification_mode_reticker">Hiện bằng thông báo nổi kiểu mới</string>
+    <string name="notification_mode_danmaku">Thông báo nổi kiểu hiện đại</string>
     <!-- Ringer Mode -->
     <string name="ringer_mode_title">Chế độ chuông</string>
     <string name="ringer_mode_silent">Im lặng</string>
@@ -68,7 +68,7 @@
     <string name="fps_Info_title">Thông tin FPS</string>
     <string name="notification_hide">Ẩn</string>
     <string name="notification_headsup">Thông báo nổi</string>
-    <string name="notification_reticker">reTicker</string>
+    <string name="notification_reticker">thông báo nổi kiểu mới</string>
     <string name="notification_danmaku">Danmaku</string>
     <string name="state_enabled">đã bật</string>
     <string name="state_disabled">tắt</string>
